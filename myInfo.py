@@ -12,3 +12,4 @@ Original file is located at
 
 print("I'm in the class")
 print(8+6)
+print("My major is Computer Science")
